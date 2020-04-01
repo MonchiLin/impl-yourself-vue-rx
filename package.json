@@ -1,0 +1,12 @@
+{
+  "name": "impl-yourself-vue-rx",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/MonchiLin/impl-yourself-vue-rx.git",
+  "author": "MonchiLin <lin912305043@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "vue": "^2.6.11",
+    "rxjs": "^6.5.4"
+  }
+}
