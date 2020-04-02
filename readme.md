@@ -16,6 +16,8 @@ npm install -g @vue/cli @vue/cli-service-global
 yarn global add @vue/cli @vue/cli-service-global
 ```
 
+# 启动
 
+示例文件在都 src 下面，通过 `vue serve src/xxx.vue` 启动即可
 
 
